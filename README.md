@@ -1,21 +1,30 @@
-# dota2-gameplay-tools
-A lightweight UI and data visualization toolkit for Dota 2 designed for interface prototyping, gameplay analysis, and experimental feature development in a sandbox environment.
+⚔️ dota2-gameplay-tools (Internal/External Utility) 🚀
+A lightweight, high-performance cheat platform and UI overlay toolkit for Dota 2. Designed for real-time match analysis, hidden data visualization, and game mechanics automation. 🔥
 
-## Overview
-This project provides modular components for exploring in-game data, building custom overlays, and testing interface concepts in a controlled environment.
+📋 Overview
+This project provides a modular framework for interacting with the Dota 2 game client, rendering custom ESP overlays, and bypassing standard interface limitations. Gain a massive tactical advantage by tracking hidden enemy information, automating complex combos, and visualizing critical data directly on your screen. 👁️‍🗨️
 
-## Features
-- Data visualization modules
-- UI overlay framework
-- Event tracking system
-- Configurable interface components
-- Lightweight and performance-oriented design
+✨ Features
+👁️ ESP & Advanced Visuals: * Full maphack assistance and hidden enemy position indicators.
 
-## Purpose
-The project is intended for research, learning, and experimentation with game interface design and telemetry visualization.
+Hidden particle rendering (e.g., Sunstrike, Torrent, Ice Blast animations in fog).
 
-## Installation
-Clone the repository and follow the setup instructions for your environment.
+Real-time enemy ability and ultimate cooldown tracking.
 
-## License
-MIT
+🎨 UI Overlay Framework: * Sleek, fully customizable in-game menu (Click/Draw GUI).
+
+Highly optimized HUD modification layout that keeps your FPS smooth.
+
+⏱️ Event Tracking System: * Immediate alerts for enemy ward placements (Observer/Sentry detection).
+
+Perfect timers for neutral camp stacks, pull times, and Roshan status.
+
+🤖 Automation & Scripts: * Configurable one-button combo execution for complex heroes (e.g., Invoker, Tinker, Skywrath Mage).
+
+Smart auto-last hit/deny helpers.
+
+Instant auto-disables (e.g., instant Hex, Orchid, or BKB usage upon enemy initiation).
+
+⚡ Lightweight & Secure: * Performance-oriented code structure with zero lag.
+
+Designed with a focus on low resource consumption and standard client security bypasses.
